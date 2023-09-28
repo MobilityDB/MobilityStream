@@ -13,3 +13,7 @@ MobilityDB is developed by the Computer & Decision Engineering Department of the
 
 More information about MobilityDB, including publications, presentations, etc., can be found in the MobilityDB [website](https://mobilitydb.com).
 
+Architecture
+------------
+
+<img src="doc/images/stream_architecture" width="100" alt="Stream Architecture" />
