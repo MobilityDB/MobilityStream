@@ -16,4 +16,4 @@ More information about MobilityDB, including publications, presentations, etc., 
 Architecture
 ------------
 
-<img src="doc/images/stream_architecture" width="100" alt="Stream Architecture" />
+<img src="doc/images/stream_architecture.png" width="100" alt="Stream Architecture" />
